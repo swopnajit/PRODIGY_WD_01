@@ -1,6 +1,3 @@
-// script.js
-
-// Add event listeners for mouseenter and mouseleave events on anime cards
 var animeCards = document.querySelectorAll('.anime-card');
 animeCards.forEach(function(card) {
   card.addEventListener('mouseenter', function() {
@@ -13,7 +10,7 @@ animeCards.forEach(function(card) {
   });
 });
 
-// Add scroll event listener to change navigation bar color
+
 window.addEventListener('scroll', function() {
   var navbar = document.querySelector('nav');
   if (window.scrollY > 50) {
