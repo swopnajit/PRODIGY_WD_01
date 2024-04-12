@@ -1,6 +1,6 @@
 # PRODIGY_WD_01
 
-## Intership Task 1
+## Internship Task 1
 
 This repository contains...
 
